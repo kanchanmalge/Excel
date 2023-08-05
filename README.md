@@ -1,2 +1,2 @@
-# Excel
-This shows some of my excel analysis skills using Pivot-Table
+# Preparing & Analyzing Data using Excel
+This shows some of my Excel analysis skills using Pivot-Table
